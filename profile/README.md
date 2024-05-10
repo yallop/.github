@@ -17,7 +17,7 @@ All of our projects are open source and welcome and and all contributions -- fro
 
 ## Be inspired, build a book ✨📖✨
 
-Our [Gallery of Jupyter Books](https://executablebooks.org/en/latest/gallery.html) has contributions from across the community. See the [Jupyter Book documentation](https://jupyterbook.org/en/stable/intro.html) to get up and running to create your first online book, with executable, interactive content.
+Our [Gallery of Jupyter Books](https://executablebooks.org/en/latest/gallery/) has contributions from across the community. See the [Jupyter Book documentation](https://jupyterbook.org/en/stable/intro.html) to get up and running to create your first online book, with executable, interactive content.
 
 ## Learn about MyST Markdown ✍️👩‍🔬
 
